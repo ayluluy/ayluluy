@@ -1,4 +1,13 @@
-## Hi there 👋
+I am a **Management Information Systems** student passionate about bridging the gap between business and technology, with a strong focus on **Data Analysis**, **Mobile Development**, and **Entrepreneurship**. My core passion lies in turning ideas into viable products through effective **Project Management** and **Financial Planning**. I am currently a 3rd-year student at **Fırat University**.
+
+
+
+💡 About Me & Experiences 💡
+
+* 🤖 Developed an AI-based image processing model to recognize Turkish Sign Language gestures as a Researcher for the **TÜBİTAK 2209-A** project, utilizing **Python**, **OpenCV**, and **Matplotlib**.
+* 🌐 Built and deployed a responsive **Personal Portfolio & Blog Website** to showcase my projects, using core web technologies (**HTML, CSS, JavaScript**) and AI tools, with source code fully documented on GitHub.
+* 🏢 Gained corporate infrastructure experience as an IT Intern at **Desa Deri**, where I provided technical support, troubleshooted network hardware, and assisted with data integration processes.
+* 🌍 Actively contributing to social impact and tech ecosystems as a volunteer for the **T3 Foundation** and **Silk Road Disaster Volunteers**, while engaging in sustainability initiatives through **Erasmus+**.
 
 <!--
 **ayluluy/ayluluy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
